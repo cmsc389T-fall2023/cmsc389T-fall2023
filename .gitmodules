@@ -1,0 +1,3 @@
+[submodule "Projects/P0/git-java-setup-template"]
+	path = Projects/P0/git-java-setup-template
+	url = https://github.com/sagars729/git-java-setup-template.git
