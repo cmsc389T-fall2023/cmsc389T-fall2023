@@ -1,9 +1,9 @@
 
 # Project 2: PacMan
 
-Due: 10/01/23, 11:59pm
+Due: 10/08/23, 11:59pm
 
-Late: 10/04/23, 11:59pm
+Late: 10/11/23, 11:59pm
 
 ## Before You Start
 
