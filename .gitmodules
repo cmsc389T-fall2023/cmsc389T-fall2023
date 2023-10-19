@@ -1,0 +1,6 @@
+[submodule "Projects/P0/git-java-setup"]
+	path = Projects/P0/git-java-setup
+	url = https://github.com/cmsc389T-fall2023/git-java-setup.git
+[submodule "Projects/P3/cmsc389T-web-template"]
+	path = Projects/P3/cmsc389T-web-template
+	url = https://github.com/cmsc389T-fall2023/cmsc389T-web-template.git
