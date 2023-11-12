@@ -1,4 +1,4 @@
-# Project 6: Git Hooks
+# Project 4: Git Hooks
 
 For this in-class project, you will create a git hook to send yourself a text 
 message through Twilio after each successful commit. You can use the files in 
